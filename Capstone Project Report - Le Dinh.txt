@@ -15,7 +15,7 @@ The dataset includes the following key attributes:
 - Numbers of people and pedestrians involved 
 - Numbers of bicycles and vehicles involved 
 - Numbers of injuries, serious injuries and fatalities in the collision
-- Situations related to inattention, drugs or alcohol, speeding, and pedestrian right of way as well as conditions of weather, road, and light.
+- Situations related to inattention, drug or alcohol, speeding, and pedestrian right of way as well as conditions related to weather, road, and light.
 Those attributes will be selected and cleaned to determine certain patterns and correlations and then used for training a machine-learning model to predict the probability and severity of collisions.
 
 
