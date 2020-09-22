@@ -1,0 +1,30 @@
+* Business Understanding
+
+Nowadays, one of the most important challenges for governments in general and governments of the big cities in particular, is to prevent car collisions. 
+
+This project aims at predicting the severity of car collisions for the Seattle Police Department (SPD) based on different factors, such as weather, road and light conditions as well as the number of peoples and vehicles involved.
+
+A model predicting the probability and severity of collisions can be very helpful to remind drivers to be more careful in some critical situations and to help the law enforcement in Seattle to prevent car accidents.
+
+* Data understanding
+
+Since 2004, the Seattle Police Department (SPD) has collected data related to road collisions recorded by the Traffic Records. 
+The dataset includes the following key attributes:
+- Collision address types
+- Levels of the severity of the collision
+- Numbers of people and pedestrians involved 
+- Numbers of bicycles and vehicles involved 
+- Numbers of injuries, serious injuries and fatalities in the collision
+- Situations related to inattention, drugs or alcohol, speeding, and pedestrian right of way as well as conditions of weather, road, and light.
+Those attributes will be selected and cleaned to determine certain patterns and correlations and then used for training a machine-learning model to predict the probability and severity of collisions.
+
+
+
+
+
+
+
+
+
+
+
